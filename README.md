@@ -1,6 +1,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/MeetSable?style=plastic&color=magenta)
 ![GitHub User's stars](https://img.shields.io/github/stars/MeetSable?style=plastic&color=magenta)
+![Profile Views](https://komarev.com/ghpvc/?username=meetsable&color=magenta)
 
 # Bello
 ### I'm Meet Sable
