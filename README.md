@@ -54,8 +54,6 @@ Some Stats:
 ![MeetSable's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetsable&theme=dark&show_icons=true)
 
 currently working on :  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meetsable&repo=woc4.0-node-blog-app-MeetSable&show_owner=true&theme=dark)](https://github.com/meetsable/woc4.0-node-blog-app-MeetSable)
-
 
 
 
