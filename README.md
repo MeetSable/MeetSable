@@ -49,14 +49,14 @@
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetsable&layout=compact&hide=c%23,jupyter%20notebook&theme=dark)](https://github.com/meetsable)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetsable&layout=compact&hide=c%23,jupyter%20notebook&theme=nightowl)](https://github.com/meetsable)
 
 Some Stats:  
-![MeetSable's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetsable&theme=dark&show_icons=true)
+![MeetSable's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetsable&theme=nightowl&show_icons=true)
 
 currently working on :  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meetsable&repo=virtual-display-sdl&theme=dark)](https://github.com/MeetSable/OpenGLtutorial)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meetsable&repo=SDL-infinite-world&theme=dark)](https://github.com/MeetSable/RGB-Image-Denoising-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meetsable&repo=OpenGLtutorial&theme=nightowl)](https://github.com/MeetSable/OpenGLtutorial)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meetsable&repo=RGB-Image-Denoising-Python&theme=nightowl)](https://github.com/MeetSable/RGB-Image-Denoising-Python)
 
 
 
