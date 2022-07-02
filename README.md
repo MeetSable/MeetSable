@@ -55,8 +55,8 @@ Some Stats:
 ![MeetSable's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetsable&theme=dark&show_icons=true)
 
 currently working on :  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meetsable&repo=virtual-display-sdl&theme=dark)](https://github.com/MeetSable/virtual-display-sdl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meetsable&repo=SDL-infinite-world&theme=dark)](https://github.com/MeetSable/SDL-infinite-world)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meetsable&repo=virtual-display-sdl&theme=dark)](https://github.com/MeetSable/OpenGLtutorial)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meetsable&repo=SDL-infinite-world&theme=dark)](https://github.com/MeetSable/RGB-Image-Denoising-Python)
 
 
 
