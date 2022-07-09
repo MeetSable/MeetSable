@@ -37,7 +37,6 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
-
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
@@ -48,8 +47,8 @@
 </br>
 </br>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetsable&layout=compact&hide=c%23,jupyter%20notebook&theme=nightowl)](https://github.com/meetsable)
+<img src="https://c.tenor.com/PRN-EHOCuHwAAAAC/the-it-crowd-moss-the-it-crowd.gif" height="200">
 
 Some Stats:  
 ![MeetSable's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetsable&theme=nightowl&show_icons=true)
