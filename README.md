@@ -53,5 +53,5 @@
 Some Stats:  
 ![MeetSable's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetsable&theme=nightowl&show_icons=true)
 
-currently working on :  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meetsable&repo=OpenGLtutorial&theme=nightowl)](https://github.com/MeetSable/OpenGLtutorial)
+Recent Project :  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meetsable&repo=speech_dereverberation_using_gan&theme=nightowl)](https://github.com/MeetSable/speech_dereverberation_using_gan)
