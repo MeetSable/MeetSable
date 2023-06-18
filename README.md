@@ -5,7 +5,7 @@
 
 ![Hello There](https://c.tenor.com/2ZNExnM_7F0AAAAC/hello-there.gif)
 ### I'm Meet Sable
-### Final year B.Tech student at DAIICT, Gandhinagar
+### B.Tech graduate from DAIICT, Software Intern at Euler Motors
 
 
 </br>
