@@ -47,11 +47,11 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetsable&layout=compact&hide=c%23,jupyter%20notebook&theme=nightowl)](https://github.com/meetsable)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetsable&layout=compact&hide=c%23,jupyter%20notebook&theme=tokyonight)](https://github.com/meetsable)
 <img src="https://c.tenor.com/PRN-EHOCuHwAAAAC/the-it-crowd-moss-the-it-crowd.gif" height="200">
 
 Some Stats:  
-![MeetSable's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetsable&theme=nightowl&show_icons=true)
+![MeetSable's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetsable&theme=tokyonight&show_icons=true)
 
 Recent Project :  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meetsable&repo=speech_dereverberation_using_gan&theme=nightowl)](https://github.com/MeetSable/speech_dereverberation_using_gan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meetsable&repo=speech_dereverberation_using_gan&theme=tokyonight)](https://github.com/MeetSable/speech_dereverberation_using_gan)
